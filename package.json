@@ -1,0 +1,25 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "This is a task tracker app",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamatha1508/TaskTracker.git"
+  },
+  "author": "Mamatha Yarramsetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mamatha1508/TaskTracker/issues"
+  },
+  "homepage": "https://github.com/Mamatha1508/TaskTracker#readme",
+  "dependencies": {
+    "parcel": "^2.14.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.5.1"
+  }
+}
