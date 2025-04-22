@@ -2,9 +2,10 @@
   "name": "tasktracker",
   "version": "1.0.0",
   "description": "This is a task tracker app",
- 
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -17,9 +18,11 @@
   },
   "homepage": "https://github.com/Mamatha1508/TaskTracker#readme",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.4",
     "parcel": "^2.14.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.5.1"
+    "react-router-dom": "^7.5.1",
+    "tailwindcss": "^4.1.4"
   }
 }
