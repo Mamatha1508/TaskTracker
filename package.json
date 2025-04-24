@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Mamatha1508/TaskTracker#readme",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.4",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
     "parcel": "^2.14.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
